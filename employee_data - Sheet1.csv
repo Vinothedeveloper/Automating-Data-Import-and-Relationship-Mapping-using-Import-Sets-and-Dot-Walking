@@ -1,0 +1,11 @@
+name,Email,Mobile Phone,department,Manager HP1
+Rajesh Sharma,rajesh@email.com,9876500001,HR,Rajesh Sharma
+Meena Iyer,meena@email.com,9876500002,Development,Rajesh Sharma
+Anil Verma,anil@email.com,9876500003,Testing,Rajesh Sharma
+Arun Kumar,arun@email.com,9876500004,Support,Meena Iyer
+Priya Singh,priya@email.com,9876500005,DevOps,Meena Iyer
+Karthik R,karthik@email.com,9876500006,Database,Anil Verma
+Sneha Patel,sneha@email.com,9876500007,Security,Anil Verma
+Rahul Das,rahul@email.com,9876500008,HR,Rajesh Sharma
+Divya Nair,divya@email.com,9876500009,Development,Meena Iyer
+Vijay Kumar,vijay@email.com,9876500010,Testing,Anil Verma
