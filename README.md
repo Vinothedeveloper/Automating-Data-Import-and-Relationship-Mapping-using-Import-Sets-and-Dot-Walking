@@ -6,7 +6,7 @@
 
 ## About us
 
-I'm Sairam Mangeshkar, TL of Team 1, and these are my teammates:
+I'm Sairam Mangeshkar, Team Leader (TL) of Team 1, and these are my teammates:
 1. S Karpaga Vinayagam (Repo Owner)
 2. S Manuneethi Cholan
 3. S Rada Krishnan
